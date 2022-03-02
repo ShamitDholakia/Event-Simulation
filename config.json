@@ -1,0 +1,8 @@
+{
+    "url": "http://data.trakit.party/ti_raw_msg",
+    "headers": {
+       "X-Auth-Token": "admin@cliftonlabs.com@MZfTkg4ziGyYGJ~QW6tJCpSa21dilyxZqzRBgp2s722fnKR0yD",
+       "content-type": "application/json"
+    }
+ }
+ 
